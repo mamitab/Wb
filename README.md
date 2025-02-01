@@ -1,14 +1,6 @@
 # Wb
 
 Bu proje, X amacıyla geliştirilmiştir.
+#kurulum
 
-## Kurulum
-
-git clone 
-https://github.com/mamitab/Wb.git
-
-cd Wb
-Run the main.py file:
-
-sh
-python main.py
+git clone https://github.com/mamitab/Wb.git && cd Wb && python main.py
