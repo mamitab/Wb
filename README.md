@@ -3,8 +3,12 @@
 Bu proje, X amacıyla geliştirilmiştir.
 
 ## Kurulum
-Bu projeyi kurmak için:
-```sh
-git clone https://github.com/mamitab/Wb.git
+
+git clone 
+https://github.com/mamitab/Wb.git
+
 cd Wb
+Run the main.py file:
+
+sh
 python main.py
